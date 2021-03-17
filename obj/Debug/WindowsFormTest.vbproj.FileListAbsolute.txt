@@ -1,0 +1,10 @@
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\bin\Debug\WindowsFormTest.exe.config
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\bin\Debug\WindowsFormTest.exe
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\bin\Debug\WindowsFormTest.pdb
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\bin\Debug\WindowsFormTest.xml
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.Form1.resources
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.Resources.resources
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.vbproj.GenerateResource.Cache
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.exe
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.xml
+c:\users\sa1060\documents\visual studio 2013\Projects\WindowsFormTest\obj\Debug\WindowsFormTest.pdb
